@@ -1,0 +1,19 @@
+Criar novo repositório:
+
+- nome             // Nome do repositório
+- descrição        // Descrição do repositório
+- caminho          // Localização do repositório
+- README.md        // Arquivo de apresentação do repositório em linguagem Markdown
+- git ignore       // Arquivo que indica quais arquivos devem ser ignorados
+- licença          // Licença que seu software irá utilizar
+
+Commit, push e pull:
+
+- commit           // Por o nome e a descrição do commit do repositório local
+- push             // Enviar para o repositório remoto
+- pull             // Pegar do repositório remoto
+
+Marcas nos arquivos do VSCode:
+
+- U                // Não monitorado
+- M                // Monitorado
