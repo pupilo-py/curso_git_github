@@ -1,0 +1,8 @@
+Clonando Repositório:
+
+- URL       // URL do repositório remoto
+- Caminho   // Caminho onde o clone será posto
+
+* CLI:
+
+- $ git clone <URL> <caminho>

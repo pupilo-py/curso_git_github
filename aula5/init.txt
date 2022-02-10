@@ -7,11 +7,21 @@ Criar novo repositório:
 - git ignore       // Arquivo que indica quais arquivos devem ser ignorados
 - licença          // Licença que seu software irá utilizar
 
+* CLI:
+
+- $ gh repo create <nome> -d "<descrição>" -g "<git ignore>" -l "<licença>" --public/--private -c (clone)
+
 Commit, push e pull:
 
 - commit           // Por o nome e a descrição do commit do repositório local
 - push             // Enviar para o repositório remoto
 - pull             // Pegar do repositório remoto
+
+* CLI:
+
+- $ git commit -m "<mensagem>"
+- $ git push <repositório-remoto>
+- $ git pull <repositório-remoto>
 
 Marcas nos arquivos do VSCode:
 

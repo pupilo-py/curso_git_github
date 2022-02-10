@@ -1,0 +1,12 @@
+Issues:
+
+1 - Achar um problema/bug/ideia
+2 - Verificar se a issue já existe
+3 - Escrever issue e reportar problema/ideia
+
++ você pode pinnar as issues do seu repositório remoto
++ você pode criar respostas padrões para issues
+
+* CLI:
+
+- $ gh issue create -R <repositório-remoto>
